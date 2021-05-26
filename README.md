@@ -1,8 +1,9 @@
 # Feature-Engineering
 
 <h2> To perform particular Machine Learning Task we need to follow some steps.</h2>
-![Alt Text](https://github.com/Sairam-04/Feature-Engineering/blob/main/Images/ml.PNG)
-
+<p align="center">
+  <img src="https://github.com/Sairam-04/Feature-Engineering/blob/main/Images/ml.PNG" width="350">
+</p>
 
 - After preparing the data we need to preprocess that data so we require Feature Engineering.<br>
 
